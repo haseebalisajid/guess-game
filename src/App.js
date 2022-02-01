@@ -26,6 +26,7 @@ function App() {
     })
       .then((res) => res.json())
       .then((result) => {
+        console.log(result);
         let lab=[]
         let val=[]
         let dummy = [];
