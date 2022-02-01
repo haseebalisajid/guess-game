@@ -1,0 +1,18 @@
+
+.table-wrapper{
+  overflow-y: scroll;
+  height: 500px;
+  /* width: 800px; */
+}
+.row {
+  margin-right: 0px;
+    margin-left: 0px;
+}
+.table-wrapper th{
+    position: sticky;
+    top: 0;
+}
+.App-link {
+  color: #61dafb;
+}
+
